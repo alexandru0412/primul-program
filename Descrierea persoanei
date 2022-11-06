@@ -1,0 +1,49 @@
+<html>
+<head> 
+<title> Radu Alexandru Teodor</title>
+</head>
+<body>
+    <h1><u>Descriere a propriei persoane</u></h1>
+    <p><u>Numele si prenumele:</u> Radu Alexandru-Teodor </p>
+    <p><u>Date de contact:</u> Radu.Ad.Teodor@student.utcluj.ro</p>
+    <p><u>Poza de profil:</u></p>
+    <img src="IMG_4901.JPG"  width="300" height="300" />
+    <hr/>
+    <p><u>Citat reprezentativ: </u></p>
+    <p>"Education is what remains after one has forgotten what one has learned in school." ~Albert Einstein</p>
+<p><u>Discipline de aprofundat:</u></p>
+    <table>
+    <tr>
+    <th>Disciplina</th>
+    <th>Perioada</th>
+    <th>Link-ul</th>
+    </tr>
+    <tr>
+        <td>Retele de calculatoare</td>
+        <td>Anul 3,Semestrul 2</td>
+        <td> <a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST41.00.pdf">Fisa disciplinei</a> </td>
+    </tr>
+    <tr>
+        <td>Protocoale pentru Internet</td>
+        <td>Anul 4,Semestrul 1</td>
+        <td> <a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST46.00.pdf">Fisa disciplinei</a> </td>
+    </tr>
+    <tr>
+        <td>Comunicatii mobile</td>
+        <td>Anul 4,Semestrul 1</td>
+        <td> <a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST47.00.pdf">Fisa disciplinei</a> </td>
+    </tr>
+
+</table>
+<hr/>
+<p><u>Hobby-uri:</u></p>
+<ul>
+    <li>Jocurile Video</li>
+    <li>Fotografia</li>
+    <li>Mersul cu bicicleta</li>
+  </ul>
+  <hr/>
+</body>
+
+</html>
+
